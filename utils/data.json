@@ -1,0 +1,160 @@
+{
+  "parishes": [
+    {
+      "name": "The Master's Place",
+      "pic": "Pastor Bode Odesola",
+      "contact": "08108052999",
+      "email": "vicbodes@gmail.com",
+      "address": "302, OSHODI/OWORONSHOKI EXPRESSWAY, GBAGADA, LAGOS",
+      "area": "The Master's Place",
+      "coords": {
+        "lat": 6.54881,
+        "lon": 3.38683
+      }
+    },
+    {
+      "name": "Bethel's Place",
+      "pic": "Deacon Omoloye Mayowa",
+      "contact": "08023450019",
+      "email": null,
+      "address": "11, AKINDELE STREET, NEW GARAGE, BARIGA",
+      "area": "The Master's Place",
+      "coords": {
+        "lat": 6.5492028,
+        "lon": 3.3903507
+      }
+    },
+    {
+      "name": "Chapel of Solution",
+      "pic": "Pastor Yinusa Samuel",
+      "contact": "8023337194",
+      "email": "samy_in_usa@yahoo.com",
+      "address": "24, AFISI ST. MUSHIN",
+      "area": "Chapel of Solution",
+      "coords": {
+        "lat": 6.51982,
+        "lon": 3.34327
+      }
+    },
+    {
+      "name": "Gospel Sower",
+      "pic": "Deacon Ibitayo Awodokun",
+      "contact": "8139282520",
+      "email": "micawodokun@yahoo.com",
+      "address": "1, ALVES/OSENI STREET,OFF ABORISHADE STREET LAWANSON,SURULERE LAGOS",
+      "area": "Chapel of Solution",
+      "coords": {
+        "lat": 6.5147398,
+        "lon": 3.3438799
+      }
+    },
+    {
+      "name": "Beulah Assembly",
+      "pic": "Deacon Ogunkeye Olusola Olasanmi",
+      "contact": "8030701709",
+      "email": "omoroshin1@gmail.com",
+      "address": "52/54,AKANRO STREET, ILASAMAJA MUSHIN LAGOS.",
+      "area": "Chapel of Solution",
+      "coords": {
+        "lat": 6.5210371,
+        "lon": 3.3388852
+      }
+    },
+    {
+      "name": "Grace Solution",
+      "pic": "A/Pastor Ajao Taiwo",
+      "contact": "8145416541",
+      "email": "taiwoajao16@gmail.com",
+      "address": "4, AJIBADE STREET ILASAMAJA",
+      "area": "Chapel of Solution",
+      "coords": {
+        "lat": 6.5189111,
+        "lon": 3.3279272
+      }
+    },
+    {
+      "name": "Liberation Chapel",
+      "pic": "Pastor Julie Momah",
+      "contact": "8033067862",
+      "email": "julie33032@yahoo.com",
+      "address": "9, AKINPELU STREET, LADI-LAK, BARIGA",
+      "area": "Liberation Chapel",
+      "coords": {
+        "lat": 6.5381273,
+        "lon": 3.3823193
+      }
+    },
+    {
+      "name": "Grace Chapel",
+      "pic": "Deacon Raji Adedayo",
+      "contact": "8060951787",
+      "email": "elderfaruk@yahoo.com",
+      "address": "MAYA OLORIJO PHASE 3, NEAR MAYA GRAMMAR SCHOOL, IKORODU LOCAL GOVERNMENT",
+      "area": "Liberation Chapel",
+      "coords": {
+        "lat": 6.6511268,
+        "lon": 3.5747617
+      }
+    },
+    {
+      "name": "Chapel of Miracle",
+      "pic": "A/Pastor Awonusi Nicholas",
+      "contact": "08023519291",
+      "email": "awonusinicholas@yahoo.com",
+      "address": "10, BUXTON -COLE STREET, BARIGA",
+      "area": "Liberation Chapel",
+      "coords": {
+        "lat": 6.5393336,
+        "lon": 3.3778371
+      }
+    },
+    {
+      "name": "Freedom Chapel",
+      "pic": "Deacon Justice Aloku",
+      "contact": "08023519291",
+      "email": "awonusinicholas@yahoo.com",
+      "address": "10, BUXTON -COLE STREET, BARIGA",
+      "area": "Liberation Chapel",
+      "coords": {
+        "lat": 6.5393336,
+        "lon": 3.3778371
+      }
+    },
+    {
+      "name": "Sanctuary of Signs and Wonders",
+      "pic": "A/Pastor Jacob Ayodeji Ogunnaike",
+      "contact": "8038622890",
+      "email": "dejiogunnaike@yahoo.com",
+      "address": "22, GBADAMOSI STREET, ITIRE, SURULERE.",
+      "area": "Sanctuary of Signs and Wonders",
+      "coords": {
+        "lat": 6.5239143,
+        "lon": 3.3312424
+      }
+    },
+    {
+      "name": "House of Glory",
+      "pic": "A/Pastor Adewunmi Adeyemi",
+      "contact": "8027172149",
+      "email": "adewunmijoshua@yahoo.com",
+      "address": "22, GBADAMOSI STREET, ITIRE, SURULERE.",
+      "area": "Sanctuary of Signs and Wonders",
+      "coords": {
+        "lat": 6.506798,
+        "lon": 3.331311
+      }
+    },
+    {
+      "name": "Divine Favour",
+      "pic": "A/Pastor Akindayomi Afolabi",
+      "contact": "8034105014",
+      "email": "talkwithfobi@yahoo.com",
+      "address": "OPP. 5, AKINKUNMI STR, RAMONI BUS STOP LAWASON ROAD ITIRE, LAGOS",
+      "area": "Sanctuary of Signs and Wonders",
+      "coords": {
+        "lat": 6.5068549,
+        "lon": 3.337204
+      }
+    }
+  ]
+}
