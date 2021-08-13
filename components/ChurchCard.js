@@ -5,13 +5,14 @@ import {
   PhoneIcon,
   MailIcon,
 } from "@heroicons/react/solid";
-const ChurchCard = ({ data }) => {
+const ChurchCard = ({ data, selected, refProp }) => {
+  if (selected) refProp?.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   return (
     <div className="w-full bg-white my-3 rounded-md shadow-md">
-      <div className="bg-blue-800 w-full h-5 rounded-t-md flex items-center">
+      <div className={ "w-full h-5 rounded-t-md flex items-center" + (selected ? " bg-blue-800" : " bg-gray-500")}>
         <h1 className="text-white text-xs px-2 font-semibold">{data.area}</h1>
       </div>
-      <div className="flex p-4">
+      <div className="flex p-4 ">
         <div className="w-10">
           <Image src="/rccg.png" width={30} height={30} alt="RCCG LOGO" />
         </div>

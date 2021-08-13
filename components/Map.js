@@ -8,20 +8,21 @@ const Map = ({ coords, parishes, setChildClicked }) => {
       center={coords}
       margin={[50, 50, 50, 50]}
       options={{ disableDefaultUI: true, zoomControl: true }}
-      onChange={(e) => {}}
+      onChange={(e) => {console.log('HELLO')}}
+    //   onChildClick={(child) => setChildClicked(child)}
     >
       {parishes.map((parish, index) => (
         <div
           key={index}
           lat={Number(parish.coords.lat)}
-          lng={Number(parish.coords.lon)}
+          lng={Number(parish.coords.lng)}
         >
           <img
             src="/rccg.png"
-            width={45}
-            height={45}
+            width={50}
+            height={50}
             alt="RCCG Logo"
-            onClick={(child) => setChildClicked(child)}
+            onClick={(_child) => setChildClicked(`${index}`)}
           />
         </div>
       ))}

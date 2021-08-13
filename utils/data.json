@@ -9,7 +9,7 @@
       "area": "The Master's Place",
       "coords": {
         "lat": 6.54881,
-        "lon": 3.38683
+        "lng": 3.38683
       }
     },
     {
@@ -21,7 +21,7 @@
       "area": "The Master's Place",
       "coords": {
         "lat": 6.5492028,
-        "lon": 3.3903507
+        "lng": 3.3903507
       }
     },
     {
@@ -33,7 +33,7 @@
       "area": "Chapel of Solution",
       "coords": {
         "lat": 6.51982,
-        "lon": 3.34327
+        "lng": 3.34327
       }
     },
     {
@@ -45,7 +45,7 @@
       "area": "Chapel of Solution",
       "coords": {
         "lat": 6.5147398,
-        "lon": 3.3438799
+        "lng": 3.3438799
       }
     },
     {
@@ -57,7 +57,7 @@
       "area": "Chapel of Solution",
       "coords": {
         "lat": 6.5210371,
-        "lon": 3.3388852
+        "lng": 3.3388852
       }
     },
     {
@@ -69,7 +69,7 @@
       "area": "Chapel of Solution",
       "coords": {
         "lat": 6.5189111,
-        "lon": 3.3279272
+        "lng": 3.3279272
       }
     },
     {
@@ -81,7 +81,7 @@
       "area": "Liberation Chapel",
       "coords": {
         "lat": 6.5381273,
-        "lon": 3.3823193
+        "lng": 3.3823193
       }
     },
     {
@@ -93,7 +93,7 @@
       "area": "Liberation Chapel",
       "coords": {
         "lat": 6.6511268,
-        "lon": 3.5747617
+        "lng": 3.5747617
       }
     },
     {
@@ -105,7 +105,7 @@
       "area": "Liberation Chapel",
       "coords": {
         "lat": 6.5393336,
-        "lon": 3.3778371
+        "lng": 3.3778371
       }
     },
     {
@@ -117,7 +117,7 @@
       "area": "Liberation Chapel",
       "coords": {
         "lat": 6.5393336,
-        "lon": 3.3778371
+        "lng": 3.3778371
       }
     },
     {
@@ -129,7 +129,7 @@
       "area": "Sanctuary of Signs and Wonders",
       "coords": {
         "lat": 6.5239143,
-        "lon": 3.3312424
+        "lng": 3.3312424
       }
     },
     {
@@ -141,7 +141,7 @@
       "area": "Sanctuary of Signs and Wonders",
       "coords": {
         "lat": 6.506798,
-        "lon": 3.331311
+        "lng": 3.331311
       }
     },
     {
@@ -153,7 +153,7 @@
       "area": "Sanctuary of Signs and Wonders",
       "coords": {
         "lat": 6.5068549,
-        "lon": 3.337204
+        "lng": 3.337204
       }
     }
   ]

@@ -3,8 +3,8 @@ import Head from "next/head";
 import Navbar from "../components/Navbar";
 import "tailwindcss/tailwind.css";
 import Map from "../components/Map";
-import ChurchCard from "../components/ChurchCard";
 import axios from "axios";
+import List from "../components/List";
 
 export default function Home() {
   const [coords, setCoords] = useState({ lat: 6.5239143, lng: 3.3312424 });
@@ -26,11 +26,12 @@ export default function Home() {
       <main className="w-screen h-screen flex flex-col">
         <Navbar />
         <div className="flex flex-1 flex-col md:flex-row overflow-hidden">
-          <div className="flex-1 p-3 overflow-auto h-screen bg-gray-200">
-            {parishes.map((parish, index) => (
-              <ChurchCard key={index} data={parish} />
-            ))}
-          </div>
+          <List
+            childClicked={childClicked}
+            setChildClicked={setChildClicked}
+            parishes={parishes}
+            setCoords={setCoords}
+          />
           <div className="flex-2 bg-gray-500 h-full w-full">
             <Map
               coords={coords}
