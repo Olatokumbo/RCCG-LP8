@@ -18,9 +18,12 @@ const List = ({ parishes, childClicked, setCoords, setChildClicked }) => {
     <div className="flex-1 p-3 overflow-auto bg-gray-200">
       {parishes.length > 0 ? (
         parishes.map((parish, index) => (
-          <div ref={elRefs[index]} onClick={() => cardClicked(parish, index)}>
+          <div
+            key={index}
+            ref={elRefs[index]}
+            onClick={() => cardClicked(parish, index)}
+          >
             <ChurchCard
-              key={index}
               data={parish}
               selected={Number(childClicked) === index}
               refProp={elRefs[index]}
