@@ -155,6 +155,1158 @@
         "lat": 6.5068549,
         "lng": 3.337204
       }
+    },
+    {
+      "name": "Glorious Church",
+      "pic": "Pastor Yomi Lawal",
+      "contact": "8023125433",
+      "email": "bagrotenviron@yahoo.com",
+      "address": "7, ALBERT STREET, PALMGROVE",
+      "area": "Glorious Church",
+      "coords": {
+        "lat": 6.5413652,
+        "lng": 3.3661891
+      }
+    },
+    {
+      "name": "Overflow",
+      "pic": "Deacons Olufawo Tosin Olufawo Tosin Olufunmilayo",
+      "contact": "8033057056",
+      "email": "tosin_olufawo@yahoo.com",
+      "address": "1,HAASTRUP CLOSE OFF APATA STREET P/GROVE,SOMOLU",
+      "area": "Glorious Church",
+      "coords": {
+        "lat": 6.5242879,
+        "lng": 3.3596437
+      }
+    },
+    {
+      "name": "King of Glory",
+      "pic": "Pastor Olatunji Fasasi",
+      "contact": "8023178611",
+      "email": "tunjifasasi@yahoo.com",
+      "address": "1, ODULESI ST., SUNGAS, BARIGA",
+      "area": "Glorious Church",
+      "coords": {
+        "lat": 6.5332183,
+        "lng": 3.3841177
+      }
+    },
+    {
+      "name": "Shiloh Chapel",
+      "pic": "Deacons Duru Victoria",
+      "contact": "8037132272",
+      "email": "victoria_okwy@yahoo.com",
+      "address": "24, IGI OLUGBIN STREET LADI LAK BARIGA.",
+      "area": "Glorious Church",
+      "coords": {
+        "lat": 6.5332449,
+        "lng": 3.3775516
+      }
+    },
+    {
+      "name": "Destiny Center",
+      "pic": "Pastor Taiwo Ojo Fancis",
+      "contact": "8033672515",
+      "email": "yemmysoft@gmail.com",
+      "address": "1, PALACE WAY ISHERI OLOFIN, LAGOS.",
+      "area": "Glorious Church",
+      "coords": {
+        "lat": 6.5754195,
+        "lng": 3.2824725
+      }
+    },
+    {
+      "name": "Open Door Arena",
+      "pic": "Pastor Adebisi Adegbuyi",
+      "contact": "8033964832",
+      "email": "rccg.opendoor2005@gmail.com",
+      "address": "19, EYIWUAWI STR, OFF FADIPE, SOMOLU",
+      "area": "Open Door",
+      "coords": {
+        "lat": 6.5379133,
+        "lng": 3.3731812
+      }
+    },
+    {
+      "name": "Goodness And Mercy",
+      "pic": "A/Pastor Olusegun I. Odebunmi",
+      "contact": "8034124772",
+      "email": "emsamo@yahoo.com",
+      "address": "5,AGUNBIADE STREET, SHOMOLU, LAGOS.",
+      "area": "Open Door",
+      "coords": {
+        "lat": 6.5362072,
+        "lng": 3.3681634
+      }
+    },
+    {
+      "name": "Tabernacle of Fire",
+      "pic": "Deacon Edoho Tony",
+      "contact": "8025947123",
+      "email": "aderonke@yahoo.com",
+      "address": "7, BAYEWUMI LANE, IWAYA, YABA, LAGOS.",
+      "area": "Open Door",
+      "coords": {
+        "lat": 6.5053537,
+        "lng": 3.3853267
+      }
+    },
+    {
+      "name": "Great Sunrise",
+      "pic": "Pastor Oyekanmi Kadiri",
+      "contact": "8023271849",
+      "email": "kadirioye@yahoo.com",
+      "address": "30 KAYODE STREET, MUSHIN",
+      "area": "Greate Sunrise",
+      "coords": {
+        "lat": 6.5321953,
+        "lng": 3.3613653
+      }
+    },
+    {
+      "name": "Testimony Parish",
+      "pic": "Sister Bolaji Prudence Tolulope",
+      "contact": "7032299870",
+      "email": null,
+      "address": "4, AJANAKU SUBERU VILLAGE COMMAND",
+      "area": "Greate Sunrise",
+      "coords": {
+        "lat": 6.5894645,
+        "lng": 3.3601736
+      }
+    },
+    {
+      "name": "Tabernacle of Joy",
+      "pic": "Brother Adewalew Itanifo",
+      "contact": "8037143336",
+      "email": null,
+      "address": "15 LORDS AVENUE OFF PENSION HOTEL OTTA",
+      "area": "Greate Sunrise",
+      "coords": {
+        "lat": 7.945232,
+        "lng": 4.7800872
+      }
+    },
+    {
+      "name": "New Dawn",
+      "pic": "A/Pastor Bunmi Osinuga",
+      "contact": "8023695252",
+      "email": "obunminuga@gmail.com",
+      "address": "15, BANTALE ORE OFE OFF, ADENIYI STRT, MEIRAN ABULE EGBA",
+      "area": "Greate Sunrise",
+      "coords": {
+        "lat": 6.6459292,
+        "lng": 3.2718123
+      }
+    },
+    {
+      "name": "Christ Chapel",
+      "pic": "Pastor Tunde Pemida",
+      "contact": "8060684069",
+      "email": "uzor64@gmail.com",
+      "address": "10 AKINYELE CRESCENT, AGUDA",
+      "area": "Christ Chapel",
+      "coords": {
+        "lat": 6.4976344,
+        "lng": 3.3377335
+      }
+    },
+    {
+      "name": "Palace of His Glory",
+      "pic": "Brother Omonzabhie Innocent J.",
+      "contact": "8037491966",
+      "email": "omosave@yahoo.com",
+      "address": "58, PAUL OKUNTOLA STREET MORGAN, MUSHINRN",
+      "area": "Christ Chapel",
+      "coords": {
+        "lat": 6.5227269,
+        "lng": 3.3479764
+      }
+    },
+    {
+      "name": "Power House",
+      "pic": "Pastor Adesina Hassan",
+      "contact": "08023548460",
+      "email": "sinahassan@yahoo.com",
+      "address": "44, AKINOLA ST. LADI-LAK, BARIGA, LAGOS",
+      "area": "Power House",
+      "coords": {
+        "lat": 6.5393933,
+        "lng": 3.3857141
+      }
+    },
+    {
+      "name": "Chapel of His Grace",
+      "pic": "Deaconess Bukola Akindolire",
+      "contact": "7062242038",
+      "email": "akindolirenifemimerit@gmail.com",
+      "address": "20, GRACE STREET, OFF AKINOLA STREET, LADI-LAK, BARIGA",
+      "area": "Power House",
+      "coords": {
+        "lat": 6.5393779,
+        "lng": 3.387159
+      }
+    },
+    {
+      "name": "Place of Favour",
+      "pic": "Deacon Oni Omonyi",
+      "contact": "8055127074",
+      "email": "oni4god@gmail.com",
+      "address": "18, IGE AVENUE, MURITALA BUS-STOP, BARIGA",
+      "area": "Power House",
+      "coords": {
+        "lat": 6.543542,
+        "lng": 3.3944244
+      }
+    },
+    {
+      "name": "Goodness and Mercy",
+      "pic": "Pastor Adegboyega Oladewa",
+      "contact": "8037093188",
+      "email": "adeoladewa@yahoo.com",
+      "address": "27, SOMORIN OKEOWO STREET,IFAKO GBAGADA LAGOS.",
+      "area": "Goodness and Mercy",
+      "coords": {
+        "lat": 6.5594137,
+        "lng": 3.3911431
+      }
+    },
+    {
+      "name": "Halleluyah",
+      "pic": "A/Pastor Okafor Christian",
+      "contact": "7032944377",
+      "email": "okaformkemdirim@yahoo.com",
+      "address": "25, OGUNLEYE STREET, ILAJE, BARIGA, LAGOS",
+      "area": "Goodness and Mercy",
+      "coords": {
+        "lat": 6.5274947,
+        "lng": 3.3913841
+      }
+    },
+    {
+      "name": "Glad Tidings Assembly",
+      "pic": "A/Pastor Mike Etefia",
+      "contact": "8033917889",
+      "email": null,
+      "address": "91 OLATUNJI STREET, OJOTA",
+      "area": "Goodness and Mercy",
+      "coords": {
+        "lat": 6.5811429,
+        "lng": 3.3770761
+      }
+    },
+    {
+      "name": "Kings Tabernacle",
+      "pic": "Pastor Taiwo Williams",
+      "contact": "08023116683",
+      "email": "taiwotaiwo1808@gmail.com",
+      "address": "19 AYINKE STREET LADLAK BARIGA",
+      "area": "Kings Tabernacle",
+      "coords": {
+        "lat": 6.5432709,
+        "lng": 3.3828144
+      }
+    },
+    {
+      "name": "Chapel of His Love",
+      "pic": "Deacon Ikugbayigbe Babatunde",
+      "contact": "8179009057",
+      "email": null,
+      "address": "22, JAGUNMOLU STREET, LAIDE BUS STOP, BARIGA.",
+      "area": "Kings Tabernacle",
+      "coords": {
+        "lat": 6.5395806,
+        "lng": 3.3904617
+      }
+    },
+    {
+      "name": "Tabernacle of Mercy",
+      "pic": "Deacon Oyenuga Emmanuel",
+      "contact": "8054794549",
+      "email": "oyenugadamilola@gmail.com",
+      "address": "34, OLOWU STREET, OFF AKINWALE STR., BARIGA.",
+      "area": "Kings Tabernacle",
+      "coords": {
+        "lat": 6.5378232,
+        "lng": 3.3865666
+      }
+    },
+    {
+      "name": "Tower of Salvation",
+      "pic": "Pastor Adewale Ajifowoe",
+      "contact": "7086456391",
+      "email": "ajifowowe@yahoo.com",
+      "address": "20, ABIOLA ALAO STREET, OFF AGUNLEJIKA STREET, IJESHATEDO, LAGOS.",
+      "area": "Tower Of Salvation",
+      "coords": {
+        "lat": 6.5236001,
+        "lng": 3.3120698
+      }
+    },
+    {
+      "name": "Emmanuel Palace",
+      "pic": "A/Pastor Olajide Owoeye",
+      "contact": "8023156447",
+      "email": "owoeye_jide@yahoo.com",
+      "address": "21, MUTAIRU IJAIYE STREET, OFF ADEDEJI BUS STOP, IJESHATEDO, LAGOS.",
+      "area": "Tower Of Salvation",
+      "coords": {
+        "lat": 6.5115491,
+        "lng": 3.3296613
+      }
+    },
+    {
+      "name": "Higher Ground",
+      "pic": "Deacon Charles Ojo",
+      "contact": "8066183981",
+      "email": "cojo33@yahoo.com",
+      "address": "25, AJIJEDIDUN STREET, OFF AGUNLEJIKA STREET, IJESHATEDO, LAGOS.",
+      "area": "Tower Of Salvation",
+      "coords": {
+        "lat": 6.5020979,
+        "lng": 3.3219634
+      }
+    },
+    {
+      "name": "King's Palace",
+      "pic": "A/Pastor Olaide Kalia",
+      "contact": "8023027843",
+      "email": "laidekali@yahoo.com",
+      "address": "5, ABORISHADE STREET LAWANSON.",
+      "area": "King's Palace",
+      "coords": {
+        "lat": 6.5147926,
+        "lng": 3.3452349
+      }
+    },
+    {
+      "name": "Royal Household",
+      "pic": "A/Pastor Adepeju Ajenifuja",
+      "contact": "8023205124",
+      "email": null,
+      "address": "42, AKINSULIRE, STR AGUDA, SURULERE LAGOS.",
+      "area": "King's Palace",
+      "coords": {
+        "lat": 6.4878239,
+        "lng": 3.3327117
+      }
+    },
+    {
+      "name": "King's Place",
+      "pic": "Deacon Kazeem Agunbiade",
+      "contact": "8023450019",
+      "email": "kazeemagunbiade@mail.com",
+      "address": "3, SEKONI STREET LAWANSON SURULERE.",
+      "area": "King's Palace",
+      "coords": {
+        "lat": 6.5037978,
+        "lng": 3.3248192
+      }
+    },
+    {
+      "name": "Peculiar People's Assembly",
+      "pic": "Pastor Clement Obasoro",
+      "contact": "08033158602",
+      "email": "obasoro@yahoo.com",
+      "address": "5, CHURCH STREET, OFF ALAFIA STREET, MUSHIN, LAGOS",
+      "area": "Peculiar People's Assembly",
+      "coords": {
+        "lat": 6.5265798,
+        "lng": 3.3448042
+      }
+    },
+    {
+      "name": "Holiness Assembly",
+      "pic": "A/Pastor Daniel Akinleye",
+      "contact": "8035760507",
+      "email": "danielakinleye74@gmail.com",
+      "address": "6, GOVI STREET, ITIRE",
+      "area": "Peculiar People's Assembly",
+      "coords": {
+        "lat": 6.5097758,
+        "lng": 3.3273035
+      }
+    },
+    {
+      "name": "Great Peace",
+      "pic": "A/Pastor Ainnah Bisola",
+      "contact": "8062107767",
+      "email": "ainnahbisola@gmail.com",
+      "address": "32, OLOWO STREET MUSHIN",
+      "area": "Peculiar People's Assembly",
+      "coords": {
+        "lat": 6.5289875,
+        "lng": 3.3553276
+      }
+    },
+    {
+      "name": "Exousia Dunamis",
+      "pic": "Pastor BB Dan-Habu",
+      "contact": "8033038713",
+      "email": "bdanhabu@yahoo.com",
+      "address": "N0,38 FREEDOM WAY, BY IKATE ROUNDABOUT LEKKI PHASE 1, LAGOS.",
+      "area": "Exousia Dunamis",
+      "coords": {
+        "lat": 6.435381,
+        "lng": 3.4797304
+      }
+    },
+    {
+      "name": "Trinity Parish",
+      "pic": "A/Pastor Anozie Gozie Emmanuel",
+      "contact": "8035233634",
+      "email": "gozie2for1@yahoo.com",
+      "address": "NO 2, ELUTU STREET, AWOYAYA, IBEJU LEKKI, LAGOS.",
+      "area": "Exousia Dunamis",
+      "coords": {
+        "lat": 6.4777107,
+        "lng": 3.7027449
+      }
+    },
+    {
+      "name": "House of Judah",
+      "pic": "A/Pastor George Chukwumah",
+      "contact": "8036605064",
+      "email": "george.chukwumah@gmail.com",
+      "address": "49, BNIGER STREET APC SECRETARIAT, IBEJU LEKKI",
+      "area": "Exousia Dunamis",
+      "coords": {
+        "lat": 6.4583558,
+        "lng": 3.6733958
+      }
+    },
+    {
+      "name": "Transformation Centre",
+      "pic": "Pastor Gbenga Abraham",
+      "contact": "8033052002",
+      "email": null,
+      "address": "KM. 39, LEKKI EPE EXPRESSWAY, ONISHON BUS STOP, GULF LAKOWE, IBEJU LEKKI, LAGOS.",
+      "area": "Transformation Centre",
+      "coords": {
+        "lat": 6.4668658,
+        "lng": 3.6972852
+      }
+    },
+    {
+      "name": "Rehoboth",
+      "pic": "Pastor Ugochukwu Uchegwu",
+      "contact": "8033332204",
+      "email": "uchegbuugochukwu@yahoo.com",
+      "address": "RCCG REHOBOTH CLOSE, OFF ALHAJI TAMORIATU OWONIKOKO",
+      "area": "Transformation Centre",
+      "coords": {
+        "lat": 7.5938108,
+        "lng": 3.907324
+      }
+    },
+    {
+      "name": "Open Heaven Santuary",
+      "pic": "Pastor Makinde Stephen Temitope",
+      "contact": "8066137473",
+      "email": "makindestephen8@yahoo.com",
+      "address": "71/73, ILAJE ROAD, BARIGA, LAGOS",
+      "area": "Open Heaven Santuary",
+      "coords": {
+        "lat": 6.5300337,
+        "lng": 3.3940541
+      }
+    },
+    {
+      "name": "Divine Pavilion",
+      "pic": "Deacon Festus Oluroye",
+      "contact": "7026074689",
+      "email": "festusoluroye011@gmail.com",
+      "address": "11, AWIN STREET, ILAJE BARIGA, LAGOS",
+      "area": "Open Heaven Santuary",
+      "coords": {
+        "lat": 6.5316367,
+        "lng": 3.3901122
+      }
+    },
+    {
+      "name": "Trinity",
+      "pic": "Pastor Ijromade Oluwole",
+      "contact": "8030823690",
+      "email": "oluwoleijiromade@yahoo.com",
+      "address": "9, BASORUN STREET, BARIGA",
+      "area": "Trinity",
+      "coords": {
+        "lat": 6.53685,
+        "lng": 3.3779487
+      }
+    },
+    {
+      "name": "Rivers of Joy",
+      "pic": "A/Pastor Shittu Gbenga",
+      "contact": "8023960924",
+      "email": "olugbenga.olufemi@yahoo.com",
+      "address": "22, AYOOLA LAWAL ST, ILAJE BARIGA",
+      "area": "Trinity",
+      "coords": {
+        "lat": 6.5328876,
+        "lng": 3.3940791
+      }
+    },
+    {
+      "name": "Faith Tabernacle",
+      "pic": "A/Pastor Akintoye Alade",
+      "contact": "8028367718",
+      "email": null,
+      "address": "20 ORESEGUN ST. BARIGA",
+      "area": "Faith Tabernacle",
+      "coords": {
+        "lat": 6.5320846,
+        "lng": 3.3922812
+      }
+    },
+    {
+      "name": "Peniel Assembly",
+      "pic": "A/Pastor Sonaike Oluwasegun",
+      "contact": "8032487157",
+      "email": "olusegun.sonaike@gmail.com",
+      "address": "OKUTA ROAD, BARIGA. LAGOS",
+      "area": "Faith Tabernacle",
+      "coords": {
+        "lat": 6.5361571,
+        "lng": 3.3875344
+      }
+    },
+    {
+      "name": "Adonai Worship Center",
+      "pic": "Pastor Jide Aiyenitaju",
+      "contact": "08023160823",
+      "email": "aiyenitaju@yahoo.com",
+      "address": "22, BAMGBOPA STREET, ABULE IJESA",
+      "area": "Adonai Worship Center",
+      "coords": {
+        "lat": 6.5225275,
+        "lng": 3.3794903
+      }
+    },
+    {
+      "name": "The Lord's Heritage",
+      "pic": "Deaconess Florence Ehiemua",
+      "contact": "8033079086",
+      "email": "florenceehiemua@gmail.com",
+      "address": "5, LAWANI STREET, IDI ARABA, SURULERE, LAGOS",
+      "area": "Adonai Worship Center",
+      "coords": {
+        "lat": 6.5183823,
+        "lng": 3.3571208
+      }
+    },
+    {
+      "name": "Latter House Assembly",
+      "pic": "Bro. Bernard",
+      "contact": "8023468310",
+      "email": null,
+      "address": "7, AHLAJI KALEJAIYE, OFF BAJULAIYE, SOMOLU",
+      "area": "Adonai Worship Center",
+      "coords": {
+        "lat": 6.5289097,
+        "lng": 3.3754613
+      }
+    },
+    {
+      "name": "Adonai Sanctuary",
+      "pic": "A/Pastor Japhet Adoleh",
+      "contact": "8023127231",
+      "email": "olisekwuj73@gmail.com",
+      "address": "1, JIBOWU- AVENUE, IKOTUN CAR WASH, IJEGUN",
+      "area": "Adonai Worship Center",
+      "coords": {
+        "lat": 6.5693652,
+        "lng": 3.2072426
+      }
+    },
+    {
+      "name": "Higher Ground",
+      "pic": "A/Pastor Ehi Adenuga",
+      "contact": "7032612801",
+      "email": "bintaschl@yahoo.com",
+      "address": "44, BENSON ST, OFF AKERELE SURULERE",
+      "area": "Higher Ground",
+      "coords": {
+        "lat": 6.5054803,
+        "lng": 3.3575842
+      }
+    },
+    {
+      "name": "The Light Parish",
+      "pic": "Deacon Akintoye Olubukola Teniola",
+      "contact": "8033051778",
+      "email": null,
+      "address": "1,OYESONUGA STREET, PAPA AJAO MUSHIN LAGOS",
+      "area": "Higher Ground",
+      "coords": {
+        "lat": 6.5323127,
+        "lng": 3.3385885
+      }
+    },
+    {
+      "name": "Fulfilment",
+      "pic": "Bro. Samuel Afeleokhai",
+      "contact": "8096061251",
+      "email": "saafeleokhai@yahoo.com",
+      "address": "16, ELETU STREET, OFF FUJAH ROAD, RANDLE SURULERE",
+      "area": "Higher Ground",
+      "coords": {
+        "lat": 6.5142668,
+        "lng": 3.3596407
+      }
+    },
+    {
+      "name": "Throne of Mercy",
+      "pic": "Pastor Odutola Jonathan",
+      "contact": "8097483252",
+      "email": "jonathanodutola@gmail.com",
+      "address": "27, COLE STR, SURULERE",
+      "area": "Throne of Mercy",
+      "coords": {
+        "lat": 6.508858,
+        "lng": 3.3418858
+      }
+    },
+    {
+      "name": "Signs and Wonders",
+      "pic": "A/Pastor Ayo Adebola",
+      "contact": "8028296608",
+      "email": "frankayo61@yahoo.com",
+      "address": "50,AROLAWUN STREET,OFF KAYODE,ONIPANU, LAGOS.",
+      "area": "Throne of Mercy",
+      "coords": {
+        "lat": 6.5285801,
+        "lng": 3.3675738
+      }
+    },
+    {
+      "name": "God Reigns",
+      "pic": "A/Pastor Irewole Ojo Abiodun",
+      "contact": "8073332629",
+      "email": "jidemi_22@yahoo.com",
+      "address": "20, FOLA AGORO STR, SHOMOLU",
+      "area": "God Reigns",
+      "coords": {
+        "lat": 6.5274931,
+        "lng": 3.3786571
+      }
+    },
+    {
+      "name": "New Glory Assembly",
+      "pic": "A/Pastor Tunji Olanipekun",
+      "contact": "8023839484",
+      "email": "olaokunolatunji@gmail.com",
+      "address": "1, OLAJUWON STREET, YABA",
+      "area": "God Reigns",
+      "coords": {
+        "lat": 6.5107013,
+        "lng": 3.3668973
+      }
+    },
+    {
+      "name": "New Jerusalem Assembly",
+      "pic": "A/Pastor Oso Olalekan Adesina",
+      "contact": "8033003189",
+      "email": "osoolalekan@yahoo.com",
+      "address": "7, ARABA ST. OFF OLATEJU ST. MUSHIN",
+      "area": "New Jerusalem",
+      "coords": {
+        "lat": 6.5358947,
+        "lng": 3.3576236
+      }
+    },
+    {
+      "name": "Showers of Blessing",
+      "pic": "Deacon Oshunlalu Adesanya",
+      "contact": "8148143420",
+      "email": "oshunlalu@gmail.com",
+      "address": "9, COLE STREET, IYANA IPAJA, LAGOS",
+      "area": "New Jerusalem",
+      "coords": {
+        "lat": 6.6168436,
+        "lng": 3.2976044
+      }
+    },
+    {
+      "name": "Place of His Grace",
+      "pic": "A/Pastor Olalekan Soremekun",
+      "contact": "8067641528",
+      "email": "olalekanolaonipekun780@gmail.com",
+      "address": "24, OGUNMOKUN STREET MUSHIN",
+      "area": "New Jerusalem",
+      "coords": {
+        "lat": 6.5289412,
+        "lng": 3.3572183
+      }
+    },
+    {
+      "name": "Covenant Chapel",
+      "pic": "Pastor Moses Ogidan",
+      "contact": "8034545198",
+      "email": "covenantareazone13@yahoo.com",
+      "address": "13, ELALORO STREET,OFF RAMONI STREET LAWANSON ROAD ITIRE, LAGOS",
+      "area": "Covenant Chapel",
+      "coords": {
+        "lat": 6.5096517,
+        "lng": 3.3391152
+      }
+    },
+    {
+      "name": "Restoration",
+      "pic": "A/Pastor Aina Benjamin Ayodele",
+      "contact": "8065425159",
+      "email": "returnofchristone@yahoo.com",
+      "address": "6,KOSOBAMEJI STREET, OFF AGORO STREET, MUSHIN",
+      "area": "Covenant Chapel",
+      "coords": {
+        "lat": 6.5247241,
+        "lng": 3.3501409
+      }
+    },
+    {
+      "name": "Tabernacle of His Praise and Power",
+      "pic": "Pastor Bunmi Awoleye",
+      "contact": "7087539140",
+      "email": "voawoleye@yahoo.com",
+      "address": "18, AYILARA STREET, SURULERE",
+      "area": "Tabernacle of His Praise and Power",
+      "coords": {
+        "lat": 6.5088823,
+        "lng": 3.3589622
+      }
+    },
+    {
+      "name": "Open Heavens",
+      "pic": "Deacon Folaranmi James A",
+      "contact": "8027482275",
+      "email": null,
+      "address": "17, OKUYEMI STREET, ODO ERAN",
+      "area": "Tabernacle of His Praise and Power",
+      "coords": {
+        "lat": 6.507569,
+        "lng": 3.3260067
+      }
+    },
+    {
+      "name": "Tower of Praise",
+      "pic": "Deacon Folarunsho Olanrewaju",
+      "contact": "8023366954",
+      "email": null,
+      "address": "92, PALM AVENUE ROAD, MUSHIN",
+      "area": "Tabernacle of His Praise and Power",
+      "coords": {
+        "lat": 6.5337046,
+        "lng": 3.3427047
+      }
+    },
+    {
+      "name": "Abundant Grace",
+      "pic": "Pastor Edward Ekanim",
+      "contact": "7025251632",
+      "email": "edwardekanim@yahoo.co.uk",
+      "address": "1, OLATUNDE AYOOLA STREET OBANIKORO",
+      "area": "Abundant Grace",
+      "coords": {
+        "lat": 6.5531564,
+        "lng": 3.3656163
+      }
+    },
+    {
+      "name": "Power and Grace",
+      "pic": "Deacon Olaniyan Kayode",
+      "contact": "8025850421",
+      "email": "powerandgrace@yahoo.com",
+      "address": "8, OLAJUBU STREET, ILUPEJU",
+      "area": "Abundant Grace",
+      "coords": {
+        "lat": 6.5419271,
+        "lng": 3.3565928
+      }
+    },
+    {
+      "name": "Dominion Assembly",
+      "pic": "A/Pastor Denuga Olufemi",
+      "contact": "8023406205",
+      "email": "feminuga15@gmail.com",
+      "address": "2A, OLASODE STREET, SOMOLU",
+      "area": "Dominion Assembly",
+      "coords": {
+        "lat": 6.5354705,
+        "lng": 3.3722734
+      }
+    },
+    {
+      "name": "Fountain of Living Water",
+      "pic": "A/Pastor Joel Okonkwo",
+      "contact": "8056427753",
+      "email": "juliey33032@yahoo.com",
+      "address": "6 OBIWUNMI STREET OFF FOLAGORO, SHOMOLU",
+      "area": "Dominion Assembly",
+      "coords": {
+        "lat": 6.529821,
+        "lng": 3.3777191
+      }
+    },
+    {
+      "name": "Daystar",
+      "pic": "Pastor Oluwafemi Felix Oluwole",
+      "contact": "08033443921",
+      "email": "femifelixoluwole@yahoo.com",
+      "address": "GREEN VILLE EST. IJOYI-BADORE RD AJAH",
+      "area": "Daystar",
+      "coords": {
+        "lat": 6.5104393,
+        "lng": 3.5936414
+      }
+    },
+    {
+      "name": "Unlimited Grace Sanctuary",
+      "pic": "Pastor Abraham Olugbenga",
+      "contact": "8033052002",
+      "email": "abrahamolugbenga@gmail.com",
+      "address": "HP SHORELINE COMPLEX, AJIWE LEKKI",
+      "area": "Daystar",
+      "coords": {
+        "lat": 6.4698447,
+        "lng": 3.5751452
+      }
+    },
+    {
+      "name": "Divine Sanctuary",
+      "pic": "Deacon Adebayo Salami",
+      "contact": "8023199415",
+      "email": "de05@rccg.org",
+      "address": "OGUNLANA DRIVE, AWOYAYA, LAGOS",
+      "area": "Daystar",
+      "coords": {
+        "lat": 6.4775325,
+        "lng": 3.7048452
+      }
+    },
+    {
+      "name": "Abundant Life",
+      "pic": "A/Pastor Dada Temitope",
+      "contact": "8069076267",
+      "email": "topeolakuti@yahoo.com",
+      "address": "28 OROKU STREET, BY PARK ROAD ROUNDABOUT, EBUTE-METTA",
+      "area": "Abundant Life",
+      "coords": {
+        "lat": 6.4849756,
+        "lng": 3.3721176
+      }
+    },
+    {
+      "name": "Solid Rock",
+      "pic": "A/Pastor Solomon Aderinluwo",
+      "contact": "8034969765",
+      "email": "aderinluwosolomon@yahoo.com",
+      "address": "2, LATUNDE STREET, OFF OLD YABA ROAD, EBUTE-METTA,RNLAGOS.",
+      "area": "Abundant Life",
+      "coords": {
+        "lat": 6.4935021,
+        "lng": 3.3780878
+      }
+    },
+    {
+      "name": "New Joy Assembly",
+      "pic": "A/Pastor Yemi Aderonmu",
+      "contact": "8034969765",
+      "email": "yemironmu@yahoo.com",
+      "address": "110, BRICKFIELD ROAD COSTAIN , OFF APAPA ROAD EBUTTE METTA LAGOS.",
+      "area": "Abundant Life",
+      "coords": {
+        "lat": 6.4811231,
+        "lng": 3.3680971
+      }
+    },
+    {
+      "name": "Holy Ghost",
+      "pic": "Pastor Sasona Olusola Joseph",
+      "contact": "8056148515",
+      "email": "sasona1502@yahoo.co.uk",
+      "address": "20,BOLA BALOGUN STREET, LAGASA PHASE-2 IBEJU-LEKKI, LAGOS.",
+      "area": "Holy Ghost",
+      "coords": {
+        "lat": 6.4820154,
+        "lng": 3.7235576
+      }
+    },
+    {
+      "name": "Redeemer's Parish",
+      "pic": "Pastor Cyril Chidubem Idu-Ukpaka",
+      "contact": "8033044674",
+      "email": "ukp_cyril@yahoo.com",
+      "address": "EBUTE, POWERLINE, IJOYI STREET, GREENVILLE ESTATE BADORE,LAGOS",
+      "area": "Holy Ghost",
+      "coords": {
+        "lat": 6.5055317,
+        "lng": 3.5929657
+      }
+    },
+    {
+      "name": "Glory Tabernacle",
+      "pic": "Pastor Olufunmilayo Ayo-Odugbesan",
+      "contact": "8033376095",
+      "email": "adefunmilayoedward@hotmail.com",
+      "address": "31, MODUPE- YOUNG STREET, THOMAS ESTATE, AJAH",
+      "area": "Glory Taberancle",
+      "coords": {
+        "lat": 6.4775287,
+        "lng": 3.5766684
+      }
+    },
+    {
+      "name": "Powerful Heritage Assembly",
+      "pic": "Deacon Samson Adedeji",
+      "contact": "9098882487",
+      "email": "adefunmilayoedward@hotmail.com",
+      "address": "ADE OLOWOPOPO AVENUE OFF OGUNYOMI CRESCENT LAKOWE PHASE 11 , LEKKI EPE EXP. WAY LAGOS",
+      "area": "Glory Taberancle",
+      "coords": {
+        "lat": 6.4709648,
+        "lng": 3.7309427
+      }
+    },
+    {
+      "name": "Amazing Glory Assembly",
+      "pic": "Deacon Ehi James",
+      "contact": "8068258216",
+      "email": null,
+      "address": "2, BRASS AMSAD CLOSE, OFF BAYO WILLIAMS STREET OFF ADEBA ROAD, LAKOWE, IBEJU LEKKI, LAGOS",
+      "area": "Glory Taberancle",
+      "coords": {
+        "lat": 6.4719974,
+        "lng": 3.7276707
+      }
+    },
+    {
+      "name": "Jesus House",
+      "pic": "Deacon Fancis Angbo",
+      "contact": "8038527686",
+      "email": "rccglp8jesushouse@gmail.com",
+      "address": "AJA, LEKKI",
+      "area": "Jesus House",
+      "coords": {
+        "lat": 6.4637749,
+        "lng": 3.5506764
+      }
+    },
+    {
+      "name": "Salvation Parish",
+      "pic": "Deacon Innocent Ekpah",
+      "contact": "8059867450",
+      "email": null,
+      "address": "1, AKINYEMI, STREET, BESIDE CITY LODGE IBEJU LEKKI, PHASE 1",
+      "area": "Jesus House",
+      "coords": {
+        "lat": 6.581522,
+        "lng": 3.3964594
+      }
+    },
+    {
+      "name": "House of David",
+      "pic": "Pastor  Oyesiku Mofoluso",
+      "contact": "08033022579",
+      "email": "bolajioyesiku55@gmail.com",
+      "address": "8,OKUSAGA STREET, ILUPEJU",
+      "area": "House of David",
+      "coords": {
+        "lat": 6.5431901,
+        "lng": 3.3592412
+      }
+    },
+    {
+      "name": "House of Victory",
+      "pic": "Deacon Adebiyi Oluwatobiloba",
+      "contact": "7087869721",
+      "email": "tobby7224@gmail.com",
+      "address": "3, JAGUNMOLU STREET BARIGA",
+      "area": "House of David",
+      "coords": {
+        "lat": 6.5376869,
+        "lng": 3.3898066
+      }
+    },
+    {
+      "name": "House of Refuge",
+      "pic": "Deacon Faluyi Olugbenga Abiola",
+      "contact": "8187140350",
+      "email": "abiolaluyi@gmail.com",
+      "address": "NSPRI HOUSE 32/34 BARIKISU IYEDE STR,ABULE OJA B/S, AKOKA",
+      "area": "House of David",
+      "coords": {
+        "lat": 6.5161422,
+        "lng": 3.3794553
+      }
+    },
+    {
+      "name": "Chapel of Grace",
+      "pic": "A/Pastor Ogunade Hamed Olusoji",
+      "contact": "8029703660",
+      "email": "ogunade_hamed@yahoo.com",
+      "address": "8, ALONGE STREET, AKOKA, LAGOS",
+      "area": "House of David",
+      "coords": {
+        "lat": 6.5263244,
+        "lng": 3.3815083
+      }
+    },
+    {
+      "name": "Triumphant Church",
+      "pic": "A/Pastor Anozie Victor",
+      "contact": "08034350341",
+      "email": "vanozie@yahoo.com",
+      "address": "81 SHIPEOLU STREET P/GROOVE",
+      "area": "Triumphant Church",
+      "coords": {
+        "lat": 6.5445851,
+        "lng": 3.3659565
+      }
+    },
+    {
+      "name": "Light House",
+      "pic": "A/Pastor Ocloo Taiwo",
+      "contact": "8033046841",
+      "email": "taiwoocloo@gmail.com",
+      "address": "35, ODUNSI STREET, BARIGA",
+      "area": "Triumphant Church",
+      "coords": {
+        "lat": 6.5360443,
+        "lng": 3.3928255
+      }
+    },
+    {
+      "name": "Chapel of Mercy",
+      "pic": "Deacon Oladosu Kayode",
+      "contact": "7064267249",
+      "email": null,
+      "address": "12, WEMIMO STR, BARIGA",
+      "area": "Triumphant Church",
+      "coords": {
+        "lat": 6.5395793,
+        "lng": 3.3847593
+      }
+    },
+    {
+      "name": "Restoration",
+      "pic": "A/Pastor Edemo O.K.",
+      "contact": "8034986887",
+      "email": "olajideedema@yahoo.com",
+      "address": "13, AJAYI OLAIYA ST. ILAJE - BARIGA",
+      "area": "Restoration",
+      "coords": {
+        "lat": 6.5256671,
+        "lng": 3.3935227
+      }
+    },
+    {
+      "name": "Ressurection Assembly",
+      "pic": "Pastor Beatrice Diya",
+      "contact": "8023191838",
+      "email": "beatrice11diya@yahoo.com",
+      "address": "29, OLOJA STREET, BARIGA, LAGOS",
+      "area": "Restoration",
+      "coords": {
+        "lat": 6.5358972,
+        "lng": 3.3828062
+      }
+    },
+    {
+      "name": "Christ Reigns",
+      "pic": "A/Pastor Ako Oluwagbenga",
+      "contact": "8180152228",
+      "email": "oluwagbengaako2@gmail.com",
+      "address": "31, IBUKUNOLU STR, AKOKA",
+      "area": "Restoration",
+      "coords": {
+        "lat": 6.5270963,
+        "lng": 3.3824569
+      }
+    },
+    {
+      "name": "Peace House",
+      "pic": "N/A",
+      "contact": "N/A",
+      "email": null,
+      "address": "N/A",
+      "area": "Peace House",
+      "coords": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    {
+      "name": "Glory of God Chapel",
+      "pic": "A/Pastor Omotoyinbo Raphael",
+      "contact": "8027489337",
+      "email": null,
+      "address": "2, ABIMBOLA STREET OFF ODUNLAMI STREET OKESUNA SHOMOLU,LAGOS",
+      "area": "Peace House",
+      "coords": {
+        "lat": 6.5343038,
+        "lng": 3.3785456
+      }
+    },
+    {
+      "name": "New Song Area",
+      "pic": "Pastor Raphael Egbeyemi",
+      "contact": "8023092865",
+      "email": "eshioramhe2@yahoo.co.uk",
+      "address": "1A, DAPO FAFIADE STREET OMUPO PEDRO",
+      "area": "New Song Area",
+      "coords": {
+        "lat": 6.5436089,
+        "lng": 3.3698284
+      }
+    },
+    {
+      "name": "Royal Sanctuary",
+      "pic": "Deacon Sunday Ogundipe",
+      "contact": "8028288278",
+      "email": "ogundipesunday80@yahoo.com",
+      "address": "7,SURULERE STREET, OFF ADENEKAN LAIDE BUS STOP, BARIGA",
+      "area": "New Song Area",
+      "coords": {
+        "lat": 6.5396559,
+        "lng": 3.3895825
+      }
+    },
+    {
+      "name": "New Song",
+      "pic": "Pastor Dotun Onibayo",
+      "contact": "8034551070",
+      "email": "adedotunonibayo@yahoo.com",
+      "address": "5, OLUFEMI STREET, BAJULAIYE",
+      "area": "Goshen",
+      "coords": {
+        "lat": 6.5126794,
+        "lng": 3.3651483
+      }
+    },
+    {
+      "name": "Jubilee Parish",
+      "pic": "Deacon Raphael Ijidakinro",
+      "contact": "08028193214",
+      "email": "raphaelbethel@yahoo.com",
+      "address": "14, RASHEED AKOTUN STREET, BARIGA",
+      "area": "Goshen",
+      "coords": {
+        "lat": 6.5379427,
+        "lng": 3.3877884
+      }
+    },
+    {
+      "name": "Perfecter Place",
+      "pic": "Pastor Larry Igbokwe",
+      "contact": "8033530530",
+      "email": "ijelarry@yahoo.com",
+      "address": "22, AWOYOKUN STREET, ONIPANU, LAGOS",
+      "area": "Perfecter Place Zone",
+      "coords": {
+        "lat": 6.5363324,
+        "lng": 3.361852
+      }
     }
   ]
 }

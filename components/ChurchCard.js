@@ -9,7 +9,7 @@ const ChurchCard = ({ data, selected, refProp }) => {
   if (selected) refProp?.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   return (
     <div className="w-full bg-white my-3 rounded-md shadow-md">
-      <div className={ "w-full h-5 rounded-t-md flex items-center" + (selected ? " bg-blue-800" : " bg-gray-500")}>
+      <div className={ "w-full h-5 rounded-t-md flex items-center" + (selected ? " bg-yellow-600" : " bg-gray-500")}>
         <h1 className="text-white text-xs px-2 font-semibold">{data.area}</h1>
       </div>
       <div className="flex p-4 ">

@@ -15,17 +15,21 @@ const List = ({ parishes, childClicked, setCoords, setChildClicked }) => {
     setChildClicked(`${index}`);
   };
   return (
-    <div className="flex-1 p-3 overflow-auto h-screen bg-gray-200">
-      {parishes.map((parish, index) => (
-        <div ref={elRefs[index]} onClick={() => cardClicked(parish, index)}>
-          <ChurchCard
-            key={index}
-            data={parish}
-            selected={Number(childClicked) === index}
-            refProp={elRefs[index]}
-          />
-        </div>
-      ))}
+    <div className="flex-1 p-3 overflow-auto bg-gray-200">
+      {parishes.length > 0 ? (
+        parishes.map((parish, index) => (
+          <div ref={elRefs[index]} onClick={() => cardClicked(parish, index)}>
+            <ChurchCard
+              key={index}
+              data={parish}
+              selected={Number(childClicked) === index}
+              refProp={elRefs[index]}
+            />
+          </div>
+        ))
+      ) : (
+        <h1 className="text-center font-bold text-gray-600">Not Found</h1>
+      )}
     </div>
   );
 };
