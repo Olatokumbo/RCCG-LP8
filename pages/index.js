@@ -23,7 +23,7 @@ export default function Home() {
       const regexp = new RegExp(search, "i");
       setSearchedParishes(parishes.filter((x) => regexp.test(x.name)));
     }
-  }, [search]);
+  }, [search, parishes]);
 
   return (
     <div>
